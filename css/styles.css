@@ -1,0 +1,18 @@
+* {
+   background-color:lightskyblue;
+}
+.main-picture {
+    border-radius: 25%
+}
+.alignment {
+    text-align: center
+}
+div {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.crosshair {
+    cursor: crosshair
+}
+.sourced-picture {
+    border: 3px dashed purple
+}
